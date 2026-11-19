@@ -4,8 +4,8 @@
 [![rank](https://make.fun/badge/news-image-20261119/myvivlos/news-2026-11-19/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/myvivlos/news-2026-11-19/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-A three-panel editorial collage of the day's news: the Shenzhen APEC summit table, the night attack
-on the Crimean Bridge, and a cyclone over the Bay of Bengal. The program writes the finished
+A dense one-page broadsheet headed "THE WORLD IN ONE DAY", dated Thursday 19 November 2026: 42
+stories from seven regions, led by the Shenzhen trilateral. The program writes the finished
 1024x1024 image, unchanged, as `entry.png`.
 
 ## Run it
